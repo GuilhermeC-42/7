@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a932308-ad27-4890-8194-b50fdd4c9d04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facade-design-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guilh/main/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guilh/main/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guilh/main/EmployeeFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guilh/main/HrEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guilh/main/TechEmployee.java" afterDir="false" />
+    <list default="true" id="5a932308-ad27-4890-8194-b50fdd4c9d04" name="Changes" comment="Criada estrutura para o padrão de projeto Facade">
       <change afterPath="$PROJECT_DIR$/../../Python/Geradores_de_Dados-main.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Python/Geradores_de_Dados-main/CNPJ.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Python/Geradores_de_Dados-main/CPF.xlsx" afterDir="false" />
@@ -85,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659803051942</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criada estrutura para o padrão de projeto Facade">
+      <created>1659808622371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659808622371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,10 +88,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criada estrutura para o padrão de projeto Facade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada estrutura para o padrão de projeto Facade" />
   </component>
 </project>
